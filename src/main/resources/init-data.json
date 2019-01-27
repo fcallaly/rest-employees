@@ -1,0 +1,9 @@
+[
+{"_id":{"$oid":"5c463da9ab3075313cf65c44"},"name":"Sales","_class":"com.frankc.training.employee.entities.Department"},
+{"_id":{"$oid":"5c463da9ab3075313cf65c45"},"name":"Marketing","_class":"com.frankc.training.employee.entities.Department"},
+{"_id":{"$oid":"5c4b1721ab307523f0b89b2b"},"name":"Development","_class":"com.frankc.training.employee.entities.Department"},
+
+{"_id":{"$oid":"5c463e28ab3075313cf65c46"},"fullName":"Bob Robertson","departmentId":"5c463da9ab3075313cf65c45","currentTask":{"title":"New Task","description":"No more testing!!"},"_class":"com.frankc.training.employee.entities.Employee"},
+{"_id":{"$oid":"5c487bdf00959d83b2d35dec"},"fullName":"John Smith","departmentId":"5c463da9ab3075313cf65c45","currentTask":{"title":"New Task","description":"No more testing!!"},"_class":"com.frankc.training.employee.entities.Employee"},
+{"_id":{"$oid":"5c4b17abab307523f0b89b2c"},"fullName":"John Johnson","departmentId":"5c4b1721ab307523f0b89b2b","currentTask":{"title":"John's Task","description":"This is John's Task"},"_class":"com.frankc.training.employee.entities.Employee"}
+]
