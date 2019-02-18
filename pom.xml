@@ -10,9 +10,9 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.frankc</groupId>
-    <artifactId>rest-employee</artifactId>
+    <artifactId>rest-employees</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>rest-employee</name>
+    <name>rest-employees</name>
     <description>End to end spring boot web demo</description>
 
     <properties>
